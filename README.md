@@ -60,7 +60,7 @@ https://kent.dl.sourceforge.net/project/nsnam/allinone/ns-allinone-2.35/ns-allin
 ### 4. reboot
 ---
 
-# Getting Started: Youtube
+# Getting Started: Youtube Tutorial
 [![](https://i.ibb.co/KsGrcCB/ns2-Copy.png)](http://www.youtube.com/watch?v=YPDP1uOygtk "Getting Started")
 
 
